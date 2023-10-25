@@ -1,0 +1,14 @@
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\bin\Debug\net7.0\vsng-watchkeeper.exe
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\bin\Debug\net7.0\vsng-watchkeeper.deps.json
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\bin\Debug\net7.0\vsng-watchkeeper.runtimeconfig.json
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\bin\Debug\net7.0\vsng-watchkeeper.dll
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\bin\Debug\net7.0\vsng-watchkeeper.pdb
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\vsng-watchkeeper.GeneratedMSBuildEditorConfig.editorconfig
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\vsng-watchkeeper.AssemblyInfoInputs.cache
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\vsng-watchkeeper.AssemblyInfo.cs
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\vsng-watchkeeper.csproj.CoreCompileInputs.cache
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\vsng-watchkeeper.dll
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\refint\vsng-watchkeeper.dll
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\vsng-watchkeeper.pdb
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\vsng-watchkeeper.genruntimeconfig.cache
+P:\04_Computer_Science\_dotnet\vsng-watchkeeper\obj\Debug\net7.0\ref\vsng-watchkeeper.dll
