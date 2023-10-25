@@ -34,7 +34,6 @@ int FindString(byte[] buffer, string searchString)
     return -1;
 }
 
-
 // The process name and the boats to search for
 string processName = "vsf_ng";
 List<string> boats = new(){"Adriatic", "HMAS_Anzac", "Goztepe", "Jim_Bickhoff"};
@@ -110,7 +109,7 @@ void GetBoatVars(string boat)
                 int index = FindString(buffer, boat);
                 if (index >= 0)
                 {
-                    Console.WriteLine("Found string at address: 0x" + (baseAddress.ToInt64() + index).ToString("X"));
+                    Console.WriteLine($"Found boat named {boat} at RAM address: 0x{(baseAddress.ToInt64() + index).ToString("X")}");
 
                     var startAddr = IntPtr.Add(baseAddress, index + 1 - 44);
 
